@@ -1,4 +1,4 @@
-# julus_coords
+# nex_coords
 
 A free, open-source FiveM resource for developers and server administrators.  
 Camera-based entity selection system that lets you point at any object, vehicle, or prop to instantly identify and copy its coordinates.
@@ -28,9 +28,8 @@ Press **X** to exit.
 ---
 
 ## 👤 Author
-**julus**
 
-**Discord:** julus.dev (without any #)
+**Discord:** nex.dev (without any #)
 
 ---
 
